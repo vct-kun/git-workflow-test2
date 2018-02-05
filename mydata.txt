@@ -5,3 +5,4 @@ my second fix
 
 my first feature
 my second feature
+my third feature
