@@ -2,6 +2,7 @@ initial commit
 
 my first fix
 my second fix
+my third fix
 
 my first feature
 my second feature
